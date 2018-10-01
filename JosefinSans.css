@@ -1,0 +1,6 @@
+﻿@font-face {
+    font-family: 'JosefinSans';
+    src: url("https://fibresite.github.io/Fonts/JosefinSans.woff2") format("woff2"),
+         url("https://fibresite.github.io/Fonts/JosefinSans.woff") format("woff"),
+         url("https://fibresite.github.io/Fonts/JosefinSans.ttf") format("truetype");
+}
